@@ -1,0 +1,18 @@
+Steps to get the twitter API token:
+
+
+Step 1:
+	Go to https://dev.twitter.com/apps/new and log in, if necessary
+
+Step 2:
+    Enter your Application Name, Description and your website address. You can leave the callback URL empty.
+    Accept the TOS, and solve the CAPTCHA.
+    Submit the form by clicking the Create your Twitter Application
+    Copy the consumer key (API key) and consumer secret from the screen into your application
+
+    After creating your Twitter Application, you have to give the access to your Twitter Account to use this Application.
+    To do this, click the Create my Access Token.
+
+
+
+NOTE:: In order to access the Twitter, that is to get recent tweets and twitter followers count, you need the four keys such as Consumer Key, Consumer Secret, Acess token, Access Token Secret.
